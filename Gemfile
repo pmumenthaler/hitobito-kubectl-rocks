@@ -9,6 +9,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '= 6.1.7.6'
 
+gem 'bundler', '=2.2.33'
 gem 'activerecord-session_store'
 gem 'acts-as-taggable-on'
 gem 'airbrake'
